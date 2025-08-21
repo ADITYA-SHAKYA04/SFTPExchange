@@ -1,7 +1,0 @@
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/rebuild_cache.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/edit_cache.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/test_server.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/example.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/chat_client.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/test_client.dir
-/media/sf_D_DRIVE/cpp_POC/ChatApp/build/CMakeFiles/chat_server.dir

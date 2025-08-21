@@ -1,7 +1,0 @@
-<resources>
-    <string-array name="algorithms_array">
-        <item>AES-GCM</item>
-        <item>AES-CBC</item>
-        <item>RSA-OAEP</item>
-    </string-array>
-</resources>

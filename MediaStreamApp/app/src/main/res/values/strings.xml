@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MediaStreamApp</string>
-    <string name="discover">Discover Devices</string>
-    <string name="manual_ip">Manual IP</string>
-    <string name="connect">Connect</string>
-    <string name="stream">Stream</string>
-    <string name="download">Download</string>
-    <string name="enter_url">Enter Stream URL</string>
-</resources>

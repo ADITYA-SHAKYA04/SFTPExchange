@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">PasswordStrengthApp</string>
-    <string name="password_hint">Enter password</string>
-    <string name="strength_label">Strength:</string>
-    <string name="suggestion_label">Suggestion:</string>
-</resources>
