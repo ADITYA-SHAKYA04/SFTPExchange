@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/downloadFileName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Downloading..."
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:id="@+id/downloadPercent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0% done"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:paddingBottom="8dp" />
+
+    <ProgressBar
+        android:id="@+id/downloadProgressBar"
+    style="@style/AppTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="0"
+        android:indeterminate="false" />
+
+</LinearLayout>

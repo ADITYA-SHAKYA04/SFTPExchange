@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VlcPopupStreamApp</string>
+    <string name="enter_url">Enter Stream URL</string>
+    <string name="stream">Stream</string>
+    <string name="download">Download</string>
+    <string name="discover">Discover Devices</string>
+    <string name="live_camera">Live Camera</string>
+</resources>

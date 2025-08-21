@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GraphAlgoVisualizer</string>
+    <string name="add_node">Add Node</string>
+    <string name="add_edge">Add Edge</string>
+    <string name="run_bfs">Run BFS</string>
+    <string name="run_dfs">Run DFS</string>
+    <string name="run_dijkstra">Run Dijkstra</string>
+    <string name="reset">Reset</string>
+</resources>

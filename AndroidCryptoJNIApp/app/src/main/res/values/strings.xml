@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidCryptoJNIApp</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="input_hint">Enter text</string>
+    <string name="result_label">Result:</string>
+    <string name="select_algorithm">Select Algorithm</string>
+    <string name="aes_gcm">AES-GCM</string>
+    <string name="aes_cbc">AES-CBC</string>
+    <string name="rsa_oaep">RSA-OAEP</string>
+</resources>

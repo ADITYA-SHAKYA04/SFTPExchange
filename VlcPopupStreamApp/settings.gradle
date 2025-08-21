@@ -1,0 +1,2 @@
+rootProject.name = 'VlcPopupStreamApp'
+include ':app'

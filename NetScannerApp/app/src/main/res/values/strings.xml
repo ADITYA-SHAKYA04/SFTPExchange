@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetScannerApp</string>
+    <string name="scan">Scan Network</string>
+    <string name="scanning">Scanning...</string>
+    <string name="devices">Devices</string>
+    <string name="open_ports">Open Ports</string>
+    <string name="vulnerabilities">Vulnerabilities</string>
+</resources>
